@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.tts.codelab</groupId>
-	<artifactId>codelab-registry</artifactId>
+	<artifactId>codelab-registry-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>codelab-registry</name>
+	<name>codelab-registry-service</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>

@@ -3,7 +3,7 @@ spring:
     name: codelab-registry
   cloud:
     config:
-      uri: http://codelab-config:20088
+      uri: http://codelab-config-service:20088
       fail-fast: true
       username: ${CODELAB_USER}
       password: ${CODELAB_PASS}
